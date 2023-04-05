@@ -1,5 +1,8 @@
 # Mindsdb Docker Extension
 
+<img width="1458" alt="image" src="https://user-images.githubusercontent.com/34368930/230012152-c60bc8a8-3c00-48c9-961c-6d10421e7e26.png">
+
+
 This repository defines an example of a Docker extension. The files in this repository have been automatically generated as a result of running `docker extension init`.
 
 This extension is composed of:
