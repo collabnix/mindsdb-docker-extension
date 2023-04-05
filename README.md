@@ -1,3 +1,12 @@
+[![Join our Forum](https://img.shields.io/badge/-Join%20our%20Forum-blue)](https://forums.docker.com/c/docker-extensions/62)
+![stars](https://img.shields.io/github/stars/collabnix/mindsdb-docker-extension)
+![forks](https://img.shields.io/github/forks/collabnix/mindsdb-docker-extension)
+![Discord](https://img.shields.io/discord/1020180904129335379)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.mindsdb-docker-extension)
+![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
+
+
+
 # Mindsdb Docker Extension
 
 <img width="1458" alt="image" src="https://user-images.githubusercontent.com/34368930/230012152-c60bc8a8-3c00-48c9-961c-6d10421e7e26.png">
