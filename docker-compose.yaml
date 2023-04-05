@@ -1,0 +1,13 @@
+services:
+  mindsdb:
+    image: ajeetraina/mindsdb
+    ports:
+      - "47334:47334"
+      - "8080:8080"
+    volumes:
+      - data:/opt/mindsdb/data
+      - config:/opt/mindsdb/config
+
+volumes:
+  data:
+  config:
