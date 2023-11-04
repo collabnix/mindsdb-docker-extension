@@ -2,7 +2,6 @@
 ![stars](https://img.shields.io/github/stars/collabnix/mindsdb-docker-extension)
 ![forks](https://img.shields.io/github/forks/collabnix/mindsdb-docker-extension)
 ![Discord](https://img.shields.io/discord/1020180904129335379)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.mindsdb-docker-extension)
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 
