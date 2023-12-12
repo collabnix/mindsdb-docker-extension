@@ -1,6 +1,6 @@
 services:
   mindsdb:
-    image: ajeetraina/mindsdb
+    image: mindsdb/mindsdb
     ports:
       - "47334:47334"
       - "8080:8080"
