@@ -1,6 +1,6 @@
 FROM alpine
 LABEL org.opencontainers.image.title="Mindsdb" \
-    org.opencontainers.image.description="Mindsdb Docker Extension" \
+    org.opencontainers.image.description="Streamline AI development with MindsDB in your Docker environment. Deploy, manage, and scale your AI models seamlessly" \
     org.opencontainers.image.vendor="Ajeet Singh Raina" \
     com.docker.desktop.extension.api.version="0.3.0" \
     com.docker.extension.screenshots=
