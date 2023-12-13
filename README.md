@@ -41,7 +41,7 @@ You can use `docker` to build, install and push your extension. Also, we provide
 To build the extension, use `make build-extension` **or**:
 
 ```shell
-  docker buildx build -t ajeetraina/mindsdb-docker-extension:latest . --load
+  docker buildx build -t ajeetraina/mindsdb-docker-extension:1.0.2 . --load
 ```
 
 To install the extension, use `make install-extension` **or**:
