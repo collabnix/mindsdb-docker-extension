@@ -4,7 +4,6 @@ function checkServer() {
         if (!response.ok) {
           throw new Error('Server not ready');
         }
-        document.getElementById('loader').style.display = 'none';
         window.location.href = 'http://localhost:47334';
       })
       .catch(error => {
