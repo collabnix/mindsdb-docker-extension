@@ -1,4 +1,4 @@
-FROM alpine
+FROM node:18-alpine
 LABEL org.opencontainers.image.title="Mindsdb" \
     org.opencontainers.image.description="Streamline AI development with MindsDB in your Docker environment. Deploy, manage, and scale your AI models seamlessly" \
     org.opencontainers.image.vendor="Ajeet Singh Raina" \
@@ -15,3 +15,6 @@ COPY docker-compose.yaml .
 COPY metadata.json .
 COPY mindsdb.svg .
 COPY ui ui
+
+WORKDIR /ui
+RUN npm run build:css
